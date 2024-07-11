@@ -1,4 +1,4 @@
-module github.com/hunderaweke/codative-cf
+module github.com/xalanq/cf-tool
 
 go 1.22.5
 
